@@ -1,0 +1,33 @@
+.
+..
+Adobe Illustrator
+Adobe Photoshop 2021.lnk
+Adobe Premiere Pro CC 2019.zip
+Aseprite by Andrés Porras
+CurseForge.lnk
+Discord.lnk
+Hogwarts Legacy.url
+Little Witch In The Woods.lnk
+Mobalytics.lnk
+Muse Dash.url
+NASA23
+Navegador Opera GX.lnk
+Navegador Opera.lnk
+Paradox Launcher v2.lnk
+Postman.lnk
+Prison Architect.url
+Project Zomboid.url
+RPG Maker MV.url
+RStudio.lnk
+RimWorld.url
+Rockstar Games Launcher.lnk
+Sheltered.url
+Stardew Valley.url
+The Elder Scrolls V Skyrim Special Edition.url
+Tibia.lnk
+Visual Studio Code.lnk
+a.sh
+a.txt
+cidades-br.csv
+desktop.ini
+lista_HOME.txt
